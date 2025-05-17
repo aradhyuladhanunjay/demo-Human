@@ -51,7 +51,9 @@
 		</dependency>
 	</dependencies>
 
+
 	<build>
+		<finalName>Human-app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
